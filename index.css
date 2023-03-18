@@ -1,0 +1,436 @@
+/*  font-family: 'Chakra Petch', sans-serif;*/
+
+
+.Header_bar{
+
+   background-color: #ff8800;
+
+    width: auto;
+    height: 60px;
+}
+
+.header{
+    width: auto;
+    height: 60px;
+    margin:-10px;
+}
+
+.Aboutus_button {
+    color: rgb(255, 255, 255);
+    font-family: 'Kanit', sans-serif;
+    border-radius: 5px;
+    position: absolute;
+    right:200px;
+    top:20px;
+    height:20px;
+
+    width: 20px;
+    transition: .8s ease;
+}
+
+.Aboutus_button:hover {
+    color: #000000;
+    left: auto;
+    top: 20px;
+}
+
+.Product_button {
+    color: rgb(255, 255, 255);
+    font-family: 'Kanit', sans-serif;
+    border-radius: 5px;
+    position: absolute;
+    right:100px;
+    top:20px;
+    height:20px;
+
+    width: 20px;
+    transition: .8s ease;
+}
+.Product_button:hover {
+    color: #000000;
+    left: auto;
+    top: 20px;
+}
+
+.Gemotry_subheader{
+    transform: skew(45deg);
+    background-color: #ff8800;
+    position: absolute; 
+    right:-30px;
+    height: 30px;
+    width: 200px;
+} 
+.Gemotry_subheader1{
+    transform: skew(45deg);
+    background-color: #000000;
+    position: absolute; 
+    top:70px;
+    right:-20px;
+    height: 30px;
+    width: 200px;
+} 
+
+.Home_page{
+    position: relative;
+    width: auto;
+    height: 700px;
+    top: 10px;
+}
+.Header_title{
+color: #ff8800;
+    position: relative;
+    font-family: 'Kanit', sans-serif;
+    font-size: 60px;
+    top:30%;
+    left:20%
+   
+}
+.Standfor{
+
+    position: relative;
+    font-size: 25px;
+    color:#f46b6b;
+    font-family: 'Kanit', sans-serif;
+    transform: skew(0deg);
+    width: 600px;
+}
+.Sub_title{
+    color: #000000;
+    font-size: 30px;
+}
+.Logo_IPR{
+    margin: 10px;
+}
+
+.Logo{
+    background-image:
+     url("/PIC/logoicon.png");
+     height: 300px;
+     width: 300px;
+     background-size: cover;
+     position: absolute;
+     top: 150px;
+     left: 20px;
+}
+
+
+.Content{
+    position: relative;
+    width: auto;
+    height: 1000px;
+
+}
+.Title_Betw_Content{
+    position: relative;
+    width: auto;
+    height: 50px;
+}
+.Dark_Content_bg{
+    position: relative;
+    width: auto;
+    height: 1000px;
+    background-color: #3a3a3a;
+    margin: -10px;
+}
+
+
+
+.Title_Dark_Content{
+position: absolute;
+top: 10px;
+left: 43%;
+font-family: 'Chakra Petch', sans-serif;
+font-size: 50px;
+    color: #ffffff;
+}
+.ADS{
+    height: 2000px;
+    width: 100%;
+}
+
+
+
+
+.ADS1{
+    position: absolute;
+    background-image:
+    url("/PIC/namananosells-1.png");
+    background-size: cover;
+   height: 700px;
+   width: 100%;
+
+}
+.ADS1_info{
+    color: #ff8800;
+    margin: 10px;
+    position:absolute;
+    top: 260px;
+    left: 1100px;
+}
+
+.Footer{
+    position: relative;
+    height:200px;
+    width: auto;
+}
+.Gemotry_footer{
+    background-color: #ff8800d0;
+    position: relative;   
+    height: 200px;
+    width: auto;
+}
+.Footer_title{
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: 'Kanit', sans-serif;
+    margin: 20px;
+}
+.Sub_Footer_title{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: 'Kanit', sans-serif;
+    margin: 20px;
+    position: absolute;
+    top: -15px;
+    left: 120px;
+}
+
+.Time_work{
+    color: aliceblue;
+    position: relative;
+    left: 10px;
+    margin: 20px;
+}
+.Title_Time_work{
+    color: aliceblue;
+    font-family: 'Kanit', sans-serif;
+    position:absolute;
+    top: 0px;
+    left: 30px;
+}
+
+.Contact{
+    color: aliceblue;
+    position:absolute;
+    left: px;
+    
+}
+.Contact_title{
+    color: aliceblue;
+    font-family: 'Kanit', sans-serif;
+    position:absolute;
+    top:0px;
+    left: 30px;
+}
+.Title_Before_Content{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 50px;
+    position: absolute;
+    top: -30px;
+    left: 20px;
+    color: #000000;
+ 
+    border-radius: 10px;
+}
+.Cover_title{
+    position: absolute;
+    background-color: #ffa600;
+    transform: skew(35deg);
+    left: 10px;
+    top: -25px;
+    width: 670px;
+    height: 80px;
+    border-radius: px;
+  
+}
+
+.Sub_title_Before_Content{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 30px;
+
+    position: absolute;
+    top: -20px;
+    left: 800px;
+}
+.Graphic_Geometry{
+    width: auto;
+    height: 200px;
+}
+.bar1{
+    position: absolute;
+    top: 20px;
+    left:40px;
+    transform: skew(45deg);
+    background-color: #ffffff;
+    width: 40px;
+    height: 50px;
+}
+.bar2{
+    position: absolute;
+    top: 20px;
+    left:100px;
+    transform: skew(45deg);
+    background-color: #ffffff;
+    width: 40px;
+    height: 50px;
+}
+.bar3{
+    position: absolute;
+    top: 20px;
+    left:160px;
+    transform: skew(45deg);
+    background-color: #ffffff;
+    width: 40px;
+    height: 50px;
+}
+.bar4{
+    position: absolute;
+    top: 20px;
+    left:220px;
+    transform: skew(45deg);
+    background-color: #ffffff;
+    width: 40px;
+    height: 50px;
+}
+.bar5{
+    position: absolute;
+    top: 20px;
+    left:280px;
+    transform: skew(45deg);
+    background-color: #ffffff;
+    width: 40px;
+    height: 50px;
+}
+.bar6{
+    position: absolute;
+    top: 20px;
+    left:340px;
+    transform: skew(45deg);
+    background-color: #ffffff;
+    width: 40px;
+    height: 50px;
+}
+
+
+
+
+
+
+.Product_Dark_Content{
+
+
+width: 100%;
+height: 1000px;
+
+
+}
+.ProductTitle1{
+
+
+    position: absolute;
+    font-size: 30px;
+    left: 200px;
+    top: 50px;
+    font-family: 'Chakra Petch', sans-serif;
+    color: #32e76e;
+
+}
+
+
+.Product1{
+ 
+/*
+   
+    */
+    margin: 20px;
+    position: absolute;
+   
+    background-color: #4f4f4f;
+    top: 60px;
+    width: 100%;
+    height: 400px;
+
+}
+
+.Product_pic1{
+    position: absolute;
+
+
+    top: 80px;
+    left: 800px;
+    
+    background-image:
+    url("/PIC/NEMA.jpg"); 
+    background-size: cover;
+width: 300px;
+height: 300px;
+   
+
+}
+.Geomtry_PD1{
+
+    position: absolute;
+    top: 0px;
+    left: 30px;
+        background-color: #3a3a3a;
+        width: 20px;
+        height: 300px;
+       
+
+}
+
+.Geomtry_PD2{
+
+    position: absolute;
+    top: 200px;
+    right: 10px;
+        background-color: #a7a7a7;
+        width: 20px;
+        height: 200px;
+        transform: skew(135deg);
+
+}
+.Gemotry_box1{
+    position: absolute;
+    top: 300px;
+    left:200px;
+   
+    background-color: #ffffff;
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+}
+
+.Inner_box1{
+    position: absolute;
+    top: 0px;
+    left:0px;
+    background-color: #3546e2;
+    border-radius: 50px;
+    width: 140px;
+    height: 50px;
+    transition: .7s ease;
+}
+
+
+.Inner_box1:hover {
+    color: #ffffff;
+    left: auto;
+    left: 50px;
+    box-shadow: 0px 0px 20px 10px rgba(39, 39, 39, 0.5)
+}
+
+
+.Innertitle{
+    color: #32e76e;
+position: absolute;
+font-size: 20px;
+left:20px;
+top: 10px;
+    font-family: 'Chakra Petch', sans-serif;
+    transition: .7s ease;
+}
+.Innertitle:hover{
+
+    color: #ffffff;
+}
